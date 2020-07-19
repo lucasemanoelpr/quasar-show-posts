@@ -1,6 +1,8 @@
-# Aplicação exemplo (quasar-tuto)
+# Aplicação exemplo (quasar-show-posts)
 
-Aplicação de blog
+Aplicação simples listando os posts do blog http://viladosilicio.com.br/ através de uma API pública do mesmo.
+Utilizado Vuex para tratar os states.
+Implementado uma ferramenta de leitura do texto selecionado na página de detalhamento dos posts.
 
 ## Install the dependencies
 ```bash
